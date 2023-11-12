@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    border: none;
+    background-color: black;
+    color: #691e3a;
+}
+
+body {
+    background-color: #832044;
+    color: white;
+}
+
+.glyphicon {
+    font-size: 30px;
+    color: #3d1423;
+}
+
+.center {
+    width: 90%;
+    background-color: grey;
+    margin: 0 auto; /* Добавлено для центрирования блока */
+}
+
+.container {
+    background-color: grey;
+}
+
+.text-center {
+    font-size: 30px;
+    text-align: center; /* Добавлено для центрирования текста */
+}
+
+h2 {
+    text-align: center;
+}
+
+#myNavbar ul li a {
+    color: #61122F;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
